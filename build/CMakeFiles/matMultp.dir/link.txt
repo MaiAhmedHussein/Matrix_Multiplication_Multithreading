@@ -1,0 +1,1 @@
+/usr/bin/cc   -pthread CMakeFiles/matMultp.dir/matMultp.c.o  -o matMultp 

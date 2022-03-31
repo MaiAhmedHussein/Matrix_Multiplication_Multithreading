@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mai/Lab2/matMultp.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+string.h
+-
+sys/time.h
+-
+
