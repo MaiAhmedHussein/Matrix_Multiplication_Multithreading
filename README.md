@@ -9,10 +9,10 @@ The output is a matrix C(x*z) that is written to an output text file.
 ## The Matrix multiplication is done using these three methods:
 
 1. A thread computes the output C matrix i.e. without multi-threading. (A thread per matrix).
-
+![A Thread per row](per_matrix.png)
 
 2. A thread computes each row in the output C matrix. (A thread per row).
-
+![A Thread per row](per_row.png)
 
 3. A thread computes each element in the output C matrix. (A thread per element).
-
+![A Thread per element](per_element.png)
