@@ -16,3 +16,10 @@ The output is a matrix C(x*z) that is written to an output text file.
 
 3. A thread computes each element in the output C matrix. (A thread per element).
 ![A Thread per element](per_element.png)
+
+
+
+///////////////////////////////////////////////////////////////
+
+## Youtube Video Link: https://www.youtube.com/watch?v=Ld18k-yYOCY
+
